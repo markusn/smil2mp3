@@ -1,0 +1,11 @@
+Information:
+Takes a master smil, parses it, copies all the mp3 files to a new directory and uses tags derived from the master smil as mp3 metadata. Could for an example be used in conjunction with auboconv to convert a Daisy audiobook created according to http://www.tpb.se/filer/dokument/text/riktltalbteknikkrav.txt to a iPod/iPhone audiobook.
+
+Usage:
+./smil2mp3 /path/to/master.smil /place/to/put/mp3s/in/                                                         
+
+Copying:
+Public Domain, do whatever you want.
+
+Author:
+Markus Näsman
